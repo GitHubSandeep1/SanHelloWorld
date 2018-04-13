@@ -25,4 +25,5 @@ Calculator myCalc = new Calculator();
       public void testCalc() {
         assertEquals("Result", 9, myCalc.add(3,6));
       }
-}
+
+    }
